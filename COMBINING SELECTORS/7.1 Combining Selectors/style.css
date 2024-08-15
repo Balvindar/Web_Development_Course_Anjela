@@ -1,0 +1,22 @@
+/* Write your code here: */
+h1,
+h2 {
+    color: blueviolet;
+}
+
+div>p {
+    /*child selector here div is parent and p is child it should be direct child at one level*/
+    color: firebrick;
+}
+
+.box li {
+    color: blue;
+}
+
+li.done {
+    color: seagreen;
+}
+
+ul p.done {
+    font-size: 0.5rem;
+}
